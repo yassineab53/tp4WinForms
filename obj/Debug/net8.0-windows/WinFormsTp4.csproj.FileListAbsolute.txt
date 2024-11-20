@@ -14,3 +14,5 @@ C:\Users\DELL\source\repos\WinFormsTp4\WinFormsTp4\obj\Debug\net8.0-windows\refi
 C:\Users\DELL\source\repos\WinFormsTp4\WinFormsTp4\obj\Debug\net8.0-windows\WinFormsTp4.pdb
 C:\Users\DELL\source\repos\WinFormsTp4\WinFormsTp4\obj\Debug\net8.0-windows\WinFormsTp4.genruntimeconfig.cache
 C:\Users\DELL\source\repos\WinFormsTp4\WinFormsTp4\obj\Debug\net8.0-windows\ref\WinFormsTp4.dll
+C:\Users\DELL\source\repos\WinFormsTp4\WinFormsTp4\obj\Debug\net8.0-windows\WinFormsTp4.Form2.resources
+C:\Users\DELL\source\repos\WinFormsTp4\WinFormsTp4\obj\Debug\net8.0-windows\WinFormsTp4.sourcelink.json
